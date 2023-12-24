@@ -37,6 +37,7 @@ if __name__ == "__main__":
    print(f"Word count: {word_count}")
 
 ### OUTPUT:
+
 ![exp 5a](https://github.com/ramanpiritha/Word-count/assets/147084116/120cfb93-354e-4b23-89b4-edf05732e93a)
 
 
