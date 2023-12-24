@@ -2,8 +2,10 @@
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
+```
 PC
 Anaconda - Python 3.7
+```
 ## ALGORITHM: 
 ### Step 1:
 Start the program
@@ -24,6 +26,7 @@ Print the number of words
 End the program
 
 ## PROGRAM:
+```
 ##Developed by:Piritharaman R
 ##Reference no:23013537
 
@@ -35,6 +38,7 @@ if __name__ == "__main__":
    user_input = input("Enter a text: ")
    word_count = count_words(user_input)
    print(f"Word count: {word_count}")
+```
 
 ### OUTPUT:
 
